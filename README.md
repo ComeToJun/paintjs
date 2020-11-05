@@ -1,2 +1,2 @@
 # paintjs
-b
+paintjs nomad
